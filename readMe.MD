@@ -1,7 +1,7 @@
 
 自动作答继续教育的考试！
 
-食用方法：通过地址“https://curl.trillworks.com/”取到下列[2]参数
+食用方法：通过地址  “https://curl.trillworks.com/”   取到下列[2]参数
 
 1.配置好环境，Python3.7
       
